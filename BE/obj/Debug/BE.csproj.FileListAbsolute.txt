@@ -1,0 +1,6 @@
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\bin\Debug\BE.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\bin\Debug\BE.pdb
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\obj\Debug\BE.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\BE\obj\Debug\BE.pdb

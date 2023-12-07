@@ -1,0 +1,51 @@
+﻿<Application x:Class="PROJECT_FINISH100.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:hc="https://handyorg.github.io/handycontrol"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PROJECT_FINISH100"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <hc:ThemeResources/>
+                <hc:Theme/>
+                <!-- Other merged dictionaries here -->
+            </ResourceDictionary.MergedDictionaries>
+            <!-- Other app resources here -->
+
+            <Style x:Key="TXTBlueBold" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="IRANSansWeb_Bold"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#15616D"/>
+        </Style>
+        <Style x:Key="TXTBlueMedium" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="IRANSansWeb_Bold"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#15616D"/>
+        </Style>
+        <Style x:Key="TXTWhiteBold" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="IRANSansWeb_Bold"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#15616D"/>
+        </Style>
+        <Style x:Key="TXTWhiteMedium" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="IRANSansWeb_Bold"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#15616D"/>
+        </Style>
+        <Style x:Key="IMG3rowIcon" TargetType="Image">
+            <Setter Property="Grid.Row" Value="3"/>
+            <Setter Property="Grid.ColumnSpan" Value="3"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,25,60,-20"/>
+        </Style>
+        </ResourceDictionary>
+        
+        
+    </Application.Resources>
+</Application>

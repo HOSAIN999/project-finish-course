@@ -1,0 +1,14 @@
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\DAL.dll.config
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\DAL.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\DAL.pdb
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\BE.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\BE.pdb
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\obj\Debug\DAL.dll
+C:\Users\hp\Music\LIBRARYPROJECT\PROJECT FINISH100\DAL\obj\Debug\DAL.pdb
